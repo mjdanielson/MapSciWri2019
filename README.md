@@ -1,7 +1,7 @@
 # Introduction to Digital Mapping at SciWri2019
 
 - [The slides](http://bit.ly/SciWriMappingSlides)
-- [The map](http://bit.ly/SciWriFinalMap)
+- [The map](https://mjdanielson.github.io/earthquake-demo/)
 
 # Resources
 
